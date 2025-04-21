@@ -1,9 +1,15 @@
 .u-section-1 .u-sheet-1 {
   min-height: 400px;
 }
-h4 {
+#sub {
   text-align: center;
 }
 h3{
   font-family: "Old English Text MT";
+}
+#mission{
+  font-family: "Courier New";
+}
+#shop{
+  font-weight: bold;
 }
