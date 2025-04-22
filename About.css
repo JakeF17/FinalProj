@@ -1,7 +1,7 @@
 .u-section-1 .u-sheet-1 {
   min-height: 400px;
 }
-#sub {
+#subClass {
   text-align: center;
 }
 h3{
@@ -12,4 +12,12 @@ h3{
 }
 #shop{
   font-weight: bold;
+}
+#search{
+  text-align: center;
+}
+#searchButton{
+  background-color: black;
+  color: white;
+  border: 1px solid;
 }
